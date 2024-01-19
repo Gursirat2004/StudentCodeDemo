@@ -11,6 +11,7 @@ package ca.sheridancollege.week1.softwarefundamentals;
  * list to print each name.
  * @author dancye, Jan 2019
  * Modified on JAn 19, 2024
+ * THIS IS THE ANOTHER CHANGE I MADE
  */ 
 public class StudentList {
     
